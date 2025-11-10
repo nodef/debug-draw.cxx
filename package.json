@@ -1,0 +1,15 @@
+{
+  "name": "debug-draw.cxx",
+  "version": "1.2025.8",
+  "description": "Immediate-mode, renderer agnostic, lightweight debug drawing API; Guilherme Lampert (2015).",
+  "keywords": ["c", "library", "debug", "draw", "rendering", "graphics", "immediate-mode"],
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/debug-draw.cxx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/debug-draw.cxx/issues"
+  },
+  "homepage": "https://github.com/nodef/debug-draw.cxx#readme"
+}

@@ -1,9 +1,8 @@
-
 # Debug Draw
 
 [![Build Status](https://travis-ci.org/glampert/debug-draw.svg)](https://travis-ci.org/glampert/debug-draw)
 
-An immediate-mode, renderer agnostic, lightweight debug drawing API for C++.
+An immediate-mode, renderer agnostic, lightweight debug drawing API for C++, by [Guilherme Lampert](https://github.com/glampert).
 
 ![Debug Draw](https://raw.githubusercontent.com/glampert/debug-draw/master/samples/images/shapes.png "Debug Draw sample")
 
@@ -15,6 +14,18 @@ the source code as you see fit.
 
 The source code is provided "as is", without warranty of any kind, express or implied.
 No attribution is required, but a mention about the author(s) is appreciated.
+
+## Installation
+
+Run:
+```bash
+$ npm i debug-draw.cxx
+```
+
+And then include `debug_draw.hpp` as follows:
+```c
+#include "node_modules/debug-draw.cxx/debug_draw.hpp"
+```
 
 ## Using Debug Draw
 
@@ -200,3 +211,9 @@ be found inside the `samples/` directory. Each function provided in the public A
 documented in the header file. You will find a descriptive header comment before
 the prototype of each public function exported by the library.
 
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/debug-draw.cxx)
